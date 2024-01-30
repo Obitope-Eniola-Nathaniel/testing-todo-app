@@ -1,5 +1,5 @@
 # import function
-from project.fuction import read_todo, write_todo
+from project.function import read_todo, write_todo
 import time
 
 
